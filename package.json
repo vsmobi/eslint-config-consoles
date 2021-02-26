@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-consoles",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "description": "Config for consoles",
   "main": "index.js",
   "repository": {
