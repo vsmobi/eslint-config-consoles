@@ -19,6 +19,9 @@
     "es2017",
     "es2018"
   ],
+  "scripts": {
+    "test": "echo not implemented"
+  },
   "peerDependencies": {
     "typescript": "^4.2.2"
   },
