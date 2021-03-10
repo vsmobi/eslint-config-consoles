@@ -38,6 +38,7 @@ module.exports = {
                 "tabWidth": 4
             }
         ],
+        "no-plusplus": "off",
         "object-curly-newline": "off",
         "react/destructuring-assignment": "off",
         "react/jsx-filename-extension": "off",
@@ -53,7 +54,7 @@ module.exports = {
         "react/jsx-tag-spacing": "off",
         "react/require-default-props": "off",
         "react/forbid-prop-types": "off",
-        "react/prop-types": "off"
+        "react/prop-types": "off",
     },
     "env": {
         "browser": true,
